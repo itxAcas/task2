@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+  
+
+}
+.main > img{
+    border-radius: 101px;
+    height: 208px;
+    width: 198px;
+    
+}
+.main{
+    text-align: center;
+    align-items: center;
+}
+.part{
+    padding: 70px;
+}
+
+h1{
+    text-align: center;
+}
+.main > hr{
+    color: black;
+    height: 4px;
+    background-color: black;
+}
